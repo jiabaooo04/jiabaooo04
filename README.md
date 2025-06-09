@@ -2,7 +2,7 @@
 - 🤓 I'm inspired to become a data scientist
 - 👀 I’m particularly interested in urban/transit planning
 - 🌱 I’m currently studying Statistics at NTU Singapore
-- 📫 Contact: teecp14@gmail.com
+- 📫 Contact: teecp04@gmail.com
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: Matcha lover
 
