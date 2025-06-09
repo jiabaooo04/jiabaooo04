@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tee Chia Poh @jiabaooo04
-- 🤓 I'm inspired to become a data scientist
-- 👀 I’m particularly interested in urban/transit planning
-- 🌱 I’m currently studying Statistics at NTU Singapore
+- 👋 Hi~ I’m Chia Poh @jiabaooo04
+- 🤓 I’m currently studying Statistics at NTU Singapore
+- 👀 I’m particularly interested in leveraging data science for urban/transit planning
+- 🌱 Keen to learn GIS at this moment
 - 📫 Contact: teecp04@gmail.com
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: Matcha lover
